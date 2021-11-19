@@ -1,0 +1,13 @@
+\documentclass{article}
+\usepackage[subfolder, cleanup]{gnuplottex}
+\begin{document}
+
+\SweaveOpts{concordance=TRUE}
+
+Estoy probando
+
+  \begin{gnuplot}[terminal=cairolatex]
+  plot x   
+  \end{gnuplot}
+
+\end{document}

@@ -1,0 +1,9 @@
+\documentclass{article}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+Hola, aqui con git de nuevo.
+
+
+\end{document}
