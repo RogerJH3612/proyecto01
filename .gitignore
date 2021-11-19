@@ -3,3 +3,5 @@
 *.synctex.gz
 *.gnuploterrors
 gnuplottex/
+..gitignore.swp
+
