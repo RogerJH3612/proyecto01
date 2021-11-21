@@ -10,7 +10,8 @@ Hola, aqui con git de nuevo.
 a <-c(1,2,3)
 a
 @
-
+Yo no quiero que aparezca un conflicto en git
+quiero trabajar ordenado.
 
 
 \end{document}
