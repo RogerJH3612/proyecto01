@@ -10,7 +10,7 @@ Hola, aqui con git de nuevo.
 a <-c(1,2,3)
 a
 @
-
+genrando un conflicto en git
 
 
 \end{document}
