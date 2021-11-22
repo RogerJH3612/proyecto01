@@ -9,6 +9,9 @@ Hola, aqui con git de nuevo.
 2+2
 a <-c(1,2,3)
 a
+b <- c(1,4,5)
+b
+3+2
 @
 Yo no quiero que aparezca un conflicto en git
 quiero trabajar ordenado.
